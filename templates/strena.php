@@ -26,7 +26,9 @@
 				      	</p>
 					  	<p><span class="pad_bot2"><?php echo $lang['strena_text']; ?></span></p>
 				  	</div>
-					<p>&nbsp;</p>
+					<pre style="overflow-x: auto;">
+<img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt=""><img src="images/spagnolo.jpg" alt="">
+					</pre>
 			  	</article>
 			</section>
 		</div>

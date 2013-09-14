@@ -60,7 +60,7 @@
 								// BeginOAWidget_Instance_2149023: #social	
 								$('.social').jsocial({
 										twitter		:  '@MisitioVlc',
-										facebook	:  'facebook.com/pages/Misitio/493196154082256',
+										facebook	:  'facebook.com/misitiovalencia?ref=ts&fref=ts',
 										
 										center		: false,	
 										inline		: true,
