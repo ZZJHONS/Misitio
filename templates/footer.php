@@ -19,7 +19,7 @@
 			  			</ul>
 					</nav>
 					<div class="pad"> 
-			  			<p>Website diseñada por Javier Serra Campos (<a href="http://twitter.com/JaviSerra97">@JaviSerra97</a>) y programada por Sergio Sobrevela Guaita (<a href="http://twitter.com/BetterSergio">@BetterSergio</a>)</p>
+			  			<p>Website desarrollada por Javier Serra Campos (<a href="http://twitter.com/JaviSerra97">@JaviSerra97</a>) y Sergio Sobrevela Guaita (<a href="http://twitter.com/BetterSergio">@BetterSergio</a>)</p>
 			  			<p>- Octubre 2013 -</p>
 					</div>
 				</footer>
